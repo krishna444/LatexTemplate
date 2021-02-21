@@ -26,7 +26,7 @@ Yes, the _Sample.tex_ file could be further modified according to your requireme
 >> Output written on output/Sample.pdf (2 pages, 135358 bytes).
 >>Transcript written on output/Sample.log.
 
-It will take the latex file defined in the **"source"**  directory (we defined earlier) and generates a pdf file using pdflatex command. The generated files including the pdf files are saved in the **"output"** folder. 
+It takes the latex file defined in the **"source"**  directory (we defined earlier) and generates a pdf file using pdflatex command. The generated files including the pdf files are saved in the **"output"** folder. 
 
 # Questions?
 
