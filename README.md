@@ -13,5 +13,17 @@ docker pull krishna444/latex
 
 So, we can run container using this image and execute latex commands there in the running container. The generated files will be shown in the output directory.
 
-# How To Run?
+# Configuration
+
+Running this program is very simple. The latex file with *.tex extension will be in the source folder. Please note that the file "Sample.tex" can renamed, the new filename should be provided in BuildLatex.sh file. You can also change the output folder name if you wish. 
+
+# Generating Document
+
+Yes, the _Sample.tex_ file could be further modified according to your requirements. Then, execute the file "BuildLatex.sh" from terminal or double clicking. It will take the latex file defined in the **"source"**  directory (we defined earlier) and generates a pdf file using pdflatex command. The generated files including the pdf files are saved in the **"output"** folder. 
+
+# Questions?
+
+If any questions, please send me email via krishna444@gmail.com. 
+
+
 
