@@ -9,7 +9,7 @@ for every machine is cumbursome.
 
 This problem has been greatly solved using the container technology. I have written a docker file for that, the image is alreay uploaded into dockerhub. This can be easily downloaded using
 
-docker pull krishna444/latex
+> docker pull krishna444/latex
 
 So, we can run container using this image and execute latex commands there in the running container. The generated files will be shown in the output directory.
 
