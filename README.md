@@ -22,6 +22,7 @@ The latex file with *.tex extension will be in the source folder. Please note th
 Yes, the _Sample.tex_ file could be further modified according to your requirements. Running this program is very simple. Just execute the file "BuildLatex.sh" from terminal or double clicking. 
 
 > ./BuildLatex.sh
+>> .....
 >> Output written on output/Sample.pdf (2 pages, 135358 bytes).
 >>Transcript written on output/Sample.log.
 
