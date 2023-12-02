@@ -28,6 +28,9 @@ Yes, the _Sample.tex_ file could be further modified according to your requireme
 
 It takes the latex file defined in the **"source"**  directory (we defined earlier) and generates a pdf file using pdflatex command. The generated files including the pdf files are saved in the **"output"** folder. 
 
+If any reason latex file has problems, and stick in logs messages in VSCode, you can exit from it using "X" command(sometimes combination of CTRL+X & X). 
+
+
 # Questions?
 
 If any questions, please send me email via krishna444@gmail.com. 
